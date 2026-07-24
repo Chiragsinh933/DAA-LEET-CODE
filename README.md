@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

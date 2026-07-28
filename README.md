@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0067-add-binary) |
 ## Trie
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

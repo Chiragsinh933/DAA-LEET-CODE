@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

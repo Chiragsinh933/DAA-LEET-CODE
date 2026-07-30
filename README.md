@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0148-sort-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +79,16 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

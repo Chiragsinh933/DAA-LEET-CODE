@@ -27,6 +27,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0067-add-binary) |
+| [0372-super-pow](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0372-super-pow) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0191-number-of-1-bits](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
+| [0372-super-pow](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0372-super-pow) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +123,12 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->

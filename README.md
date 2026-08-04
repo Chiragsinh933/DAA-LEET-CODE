@@ -24,6 +24,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0020-valid-parentheses](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0067-add-binary) |
+| [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0067-add-binary](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -77,6 +80,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
 | [0372-super-pow](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0372-super-pow) |
 | [0654-maximum-binary-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0654-maximum-binary-tree) |
+| [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,4 +166,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0307-range-sum-query-mutable) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->

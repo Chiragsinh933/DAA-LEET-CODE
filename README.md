@@ -17,6 +17,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
 | [0654-maximum-binary-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0654-maximum-binary-tree) |
+| [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
 | [0372-super-pow](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0372-super-pow) |
 | [0654-maximum-binary-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0654-maximum-binary-tree) |
+| [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
@@ -114,10 +116,12 @@
 | [0148-sort-list](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
+| [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -170,4 +174,20 @@
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

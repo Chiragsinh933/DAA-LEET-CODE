@@ -18,6 +18,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
 | [0654-maximum-binary-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0932-beautiful-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0009-palindrome-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0067-add-binary) |
 | [0372-super-pow](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0372-super-pow) |
+| [0932-beautiful-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0932-beautiful-array) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0372-super-pow](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0372-super-pow) |
 | [0654-maximum-binary-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming

@@ -82,6 +82,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
 | [0372-super-pow](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0372-super-pow) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0932-beautiful-array) |
@@ -97,6 +98,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree

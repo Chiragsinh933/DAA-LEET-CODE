@@ -26,6 +26,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0169-majority-element) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 ## Math
 |  |
@@ -41,6 +42,7 @@
 | [0020-valid-parentheses](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0067-add-binary) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 ## Trie
 |  |
@@ -82,6 +84,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
 | [0372-super-pow](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
@@ -183,6 +186,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |

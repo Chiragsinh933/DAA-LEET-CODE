@@ -18,6 +18,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
 | [0654-maximum-binary-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0932-beautiful-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
@@ -90,6 +91,7 @@
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -214,4 +217,12 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1382-balance-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

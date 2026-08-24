@@ -24,6 +24,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@
 | [0067-add-binary](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0191-number-of-1-bits) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
@@ -105,6 +107,7 @@
 | [0932-beautiful-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
@@ -151,6 +154,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
@@ -166,6 +170,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +183,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Euler's Totient Function
 |  |
@@ -223,6 +229,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
@@ -257,4 +264,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
+## Prefix Sum
+|  |
+| ------- |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 <!---LeetCode Topics End-->

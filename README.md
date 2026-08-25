@@ -28,6 +28,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3537-fill-a-special-grid) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0067-add-binary) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3537-fill-a-special-grid) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -284,5 +287,6 @@
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->

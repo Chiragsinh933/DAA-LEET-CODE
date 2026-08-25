@@ -26,6 +26,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3537-fill-a-special-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -58,6 +59,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Trie
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3537-fill-a-special-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -161,6 +164,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -193,6 +197,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -240,6 +245,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -249,6 +255,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Counting Sort
 |  |
 | ------- |

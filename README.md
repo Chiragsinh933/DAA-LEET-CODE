@@ -32,6 +32,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [0148-sort-list](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Counting
 |  |
 | ------- |
@@ -233,12 +236,14 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0307-range-sum-query-mutable) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -299,4 +304,5 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->

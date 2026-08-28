@@ -13,6 +13,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0307-range-sum-query-mutable) |
@@ -61,6 +62,7 @@
 | [0020-valid-parentheses](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0179-largest-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -168,6 +170,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0347-top-k-frequent-elements) |
@@ -199,6 +202,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Quickselect

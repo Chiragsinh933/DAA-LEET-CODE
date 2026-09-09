@@ -53,6 +53,7 @@
 | [0009-palindrome-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0067-add-binary) |
 | [0372-super-pow](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0372-super-pow) |
+| [0670-maximum-swap](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0670-maximum-swap) |
 | [0932-beautiful-array](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 ## String
@@ -204,6 +205,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0324-wiggle-sort-ii) |
+| [0670-maximum-swap](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chiragsinh933/DAA-LEET-CODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Quickselect
 |  |
